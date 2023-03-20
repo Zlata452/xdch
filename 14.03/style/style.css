@@ -1,0 +1,21 @@
+
+@font-face {
+    font-family: MyFontTest;
+    src: url(../fonts/d9464-arkhip_font.ttf);
+}
+
+*{
+    font-family: "MyFontTest" ;
+}
+
+
+p {
+    font-weight: 100;
+    font-size: 12pt;
+    font-style: italic;
+}
+
+h1{
+    font-weight: bolder;
+    font-size: 50pt;
+}
